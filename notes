@@ -1,0 +1,11 @@
+ToDo:
+- Understand JSON-API v1 https://jsonapi.org/ build with Graphiti https://graphiti-api.github.io/graphiti/guides/
+- Create UPB Adapter
+	Ideally in same language as RPI i.e. Rails https://graphiti-api.github.io/graphiti/quickstart
+	but perhaps also could use python i.e. https://github.com/socialwifi/jsonapi-requests/
+	
+	For Rails Attempt:
+	- create virtualenvwrapper for yacsvf
+	- follow graphiti quickstart guide
+
+- Configure Amalgamator for UPB Adapter
